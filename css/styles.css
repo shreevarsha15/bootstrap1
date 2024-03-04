@@ -1,0 +1,106 @@
+#title{
+background-color: #FFE7E7;
+  text-color:rgb(139, 29, 71);
+  font-size: 2rem
+  padding:7%;
+}
+h1{
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  color:rgb(139, 29, 71);
+
+}
+.container-fluid{
+  padding:6% 17%;
+}
+body{
+  font-family: "Lobster", sans-serif;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+color:rgb(139, 29, 71);
+}
+.nav-link {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 2rem;
+}
+.button-inline{
+  padding: 1% 1% 1% 0%;
+  margin-left: 2%;
+}
+.col-lg-4{
+  padding:3% 3% 3%;
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+  font-size: 2.5rem;
+    color:rgb(139, 29, 71);
+}
+
+p{
+  text-align: center;
+  font-family: "Lobster", sans-serif;
+  font-size: 1.5rem;
+    color:rgb(139, 29, 71);
+}
+#features{
+  padding: 5% 9%;
+}
+.icon:hover{
+
+  color:#FF8080;
+}
+#testimonials{
+  background-color: #FFE7E7;
+  padding: 5% 13%;
+  color:rgb(139, 29, 71);
+    text-align: center;
+font-family: "Lobster", sans-serif;
+
+}
+#press{
+
+  background-color: #FFE7E7;
+  text-align: center;
+padding-bottom: 5%;
+}
+.testimonial-example{
+
+
+  margin:3%;
+}
+.icon{
+    text-align:center;
+    color:#944E63;
+}
+h2{
+  font-size: 3.5rem;
+}
+.press-logo{
+  width:16%;
+  margin: 20px 20px 20px;
+}
+#pricing{
+  text-align: center;
+  padding:2rem;
+
+
+}
+.card-deck{
+  padding:3%;
+}
+#cta{
+  padding: 2rem;
+  background-color: #FFE7E7;
+    text-align: center;
+  }
+  .class{
+    width: 50;
+  }
